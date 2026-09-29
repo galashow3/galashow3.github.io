@@ -27,10 +27,23 @@ Education
 
 Relevant Coursework
 ------
+**Industrial Engineering**
 
-- **Industrial Engineering**: Applied Data Analytics, Smart Manufacturing Data Analytics, Time Series Analysis and Forecasting, Design of Experiments, Computational Statistics, Applied Statistics, Probability and Statistics, Numerical Analysis, Linear Programming, Management Science and Operations Research II, Capstone PBL: Reinforcement Learning Theory and Applications, Artificial Intelligence and Machine Learning, AI+X: R/Python Computing, Data Structures, Object-Oriented Programming
-- **Mathematics**: Real Analysis, Probability Theory, Mathematical Statistics I, Linear Algebra I, Advanced Calculus I & II, Modern Algebra I & II, Complex Analysis I, Combinatorics, Differential Equations, Mathematical Programming, Computational Mathematics
-- **Semiconductor**: Plasma Equipment, Introduction to Electrical Energy
+- *Data Science & Machine Learning*: Applied Data Analytics, Smart Manufacturing Data Analytics, Artificial Intelligence and Machine Learning, Reinforcement Learning Theory and Applications (Capstone PBL), AI+X: R/Python Computing
+- *Statistics & Forecasting*: Probability and Statistics, Applied Statistics, Computational Statistics, Design of Experiments, Time Series Analysis and Forecasting
+- *Operations Research*: Linear Programming, Management Science and Operations Research II
+- *Computing*: Numerical Analysis, Data Structures, Object-Oriented Programming
+
+**Mathematics**
+
+- *Analysis*: Real Analysis, Advanced Calculus I & II, Complex Analysis I, Differential Equations
+- *Probability & Statistics*: Probability Theory, Mathematical Statistics I
+- *Algebra & Combinatorics*: Linear Algebra I, Modern Algebra I & II, Combinatorics
+- *Optimization & Computation*: Mathematical Programming, Computational Mathematics
+
+**Semiconductor**
+
+- *Equipment & Energy*: Plasma Equipment, Introduction to Electrical Energy
 
 Research Experience
 ======
