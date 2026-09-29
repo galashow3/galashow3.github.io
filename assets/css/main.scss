@@ -37,3 +37,42 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Relevant coursework on the About page: field label + course chips */
+.coursework { margin: 0.4em 0 1.6em; }
+.coursework .cw-major {
+  font-weight: 700;
+  margin: 1.3em 0 0.35em;
+}
+.coursework .cw-major:first-child { margin-top: 0.3em; }
+.coursework .cw-row {
+  display: grid;
+  grid-template-columns: 12.5em 1fr;
+  column-gap: 1em;
+  row-gap: 0.35em;
+  padding: 0.55em 0;
+  border-top: 1px solid var(--global-border-color);
+  align-items: start;
+}
+.coursework .cw-field {
+  font-size: 0.85em;
+  font-weight: 600;
+  opacity: 0.75;
+  padding-top: 0.25em;
+}
+.coursework .cw-courses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+}
+.coursework .cw-courses span {
+  font-size: 0.82em;
+  line-height: 1.45;
+  padding: 0.12em 0.7em;
+  border: 1px solid var(--global-dark-border-color);
+  border-radius: 1em;
+  white-space: nowrap;
+}
+@media (max-width: 600px) {
+  .coursework .cw-row { grid-template-columns: 1fr; }
+  .coursework .cw-courses span { white-space: normal; }
+}
