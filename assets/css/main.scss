@@ -38,7 +38,9 @@
     "layout/json_cv"
 ;
 /* Relevant coursework on the About page.
-   Hierarchy: major (largest, bold, underlined) > field (medium, semibold) > courses (smallest, indented bullets) */
+   Hierarchy: major (largest, bold, underlined) > field (indented, semibold)
+   > course (indented bullets) > what I learned (small italic, indented under the course).
+   To add a description: <li>Course name<span class="cw-desc">What I learned</span></li> */
 .coursework { margin: 0.4em 0 1.8em; }
 .coursework .cw-major {
   font-size: 1.1em;
@@ -48,7 +50,10 @@
   border-bottom: 1px solid var(--global-border-color);
 }
 .coursework .cw-major:first-child { margin-top: 0.4em; }
-.coursework .cw-row { margin: 0 0 0.8em 0; }
+.coursework .cw-row {
+  margin: 0 0 0.8em 0;
+  padding-left: 1.2em;            /* field sits under the major */
+}
 .coursework .cw-field {
   font-size: 1em;
   font-weight: 600;
@@ -57,10 +62,24 @@
 .coursework ul.cw-courses {
   font-size: 0.88em;
   margin: 0;
-  padding-left: 2.5em;   /* bullets line up with the Education list */
+  padding-left: 2.2em;            /* courses sit under the field */
   list-style: disc;
 }
 .coursework ul.cw-courses li {
   line-height: 1.5;
   margin: 0.1em 0;
+}
+.coursework .cw-desc {
+  display: block;
+  font-size: 0.85em;
+  font-style: italic;
+  line-height: 1.45;
+  opacity: 0.75;
+  padding-left: 1.1em;            /* description sits under the course */
+  margin: 0.05em 0 0.35em;
+}
+@media (max-width: 600px) {
+  .coursework .cw-row { padding-left: 0.6em; }
+  .coursework ul.cw-courses { padding-left: 1.6em; }
+  .coursework .cw-desc { padding-left: 0.6em; }
 }

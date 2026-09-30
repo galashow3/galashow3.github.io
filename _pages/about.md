@@ -29,6 +29,7 @@ Relevant Coursework
 ------
 
 <div class="coursework">
+  <!-- 과목 설명 쓰는 법: <li>과목 이름<span class="cw-desc">배운 내용</span></li> -->
   <div class="cw-major">Industrial Engineering</div>
   <div class="cw-row">
     <div class="cw-field">Data Science &amp; Machine Learning</div>
