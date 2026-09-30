@@ -30,17 +30,81 @@ Relevant Coursework
 
 <div class="coursework">
   <div class="cw-major">Industrial Engineering</div>
-  <div class="cw-row"><div class="cw-field">Data Science &amp; Machine Learning</div><ul class="cw-courses"><li>Applied Data Analytics</li><li>Smart Manufacturing Data Analytics</li><li>Artificial Intelligence and Machine Learning</li><li>Reinforcement Learning Theory and Applications (Capstone PBL)</li><li>AI+X: R/Python Computing</li></ul></div>
-  <div class="cw-row"><div class="cw-field">Statistics &amp; Forecasting</div><ul class="cw-courses"><li>Probability and Statistics</li><li>Applied Statistics</li><li>Computational Statistics</li><li>Design of Experiments</li><li>Time Series Analysis and Forecasting</li></ul></div>
-  <div class="cw-row"><div class="cw-field">Operations Research</div><ul class="cw-courses"><li>Linear Programming</li><li>Management Science and Operations Research II</li></ul></div>
-  <div class="cw-row"><div class="cw-field">Computing</div><ul class="cw-courses"><li>Numerical Analysis</li><li>Data Structures</li><li>Object-Oriented Programming</li></ul></div>
+  <div class="cw-row">
+    <div class="cw-field">Data Science &amp; Machine Learning</div>
+    <ul class="cw-courses">
+      <li>Applied Data Analytics</li>
+      <li>Smart Manufacturing Data Analytics</li>
+      <li>Artificial Intelligence and Machine Learning</li>
+      <li>Reinforcement Learning Theory and Applications (Capstone PBL)</li>
+      <li>AI+X: R/Python Computing</li>
+    </ul>
+  </div>
+  <div class="cw-row">
+    <div class="cw-field">Statistics &amp; Forecasting</div>
+    <ul class="cw-courses">
+      <li>Probability and Statistics</li>
+      <li>Applied Statistics</li>
+      <li>Computational Statistics</li>
+      <li>Design of Experiments</li>
+      <li>Time Series Analysis and Forecasting</li>
+    </ul>
+  </div>
+  <div class="cw-row">
+    <div class="cw-field">Operations Research</div>
+    <ul class="cw-courses">
+      <li>Linear Programming</li>
+      <li>Management Science and Operations Research II</li>
+    </ul>
+  </div>
+  <div class="cw-row">
+    <div class="cw-field">Computing</div>
+    <ul class="cw-courses">
+      <li>Numerical Analysis</li>
+      <li>Data Structures</li>
+      <li>Object-Oriented Programming</li>
+    </ul>
+  </div>
   <div class="cw-major">Mathematics</div>
-  <div class="cw-row"><div class="cw-field">Analysis</div><ul class="cw-courses"><li>Real Analysis</li><li>Advanced Calculus I, II</li><li>Complex Analysis I</li><li>Differential Equations</li></ul></div>
-  <div class="cw-row"><div class="cw-field">Probability &amp; Statistics</div><ul class="cw-courses"><li>Probability Theory</li><li>Mathematical Statistics I</li></ul></div>
-  <div class="cw-row"><div class="cw-field">Algebra &amp; Combinatorics</div><ul class="cw-courses"><li>Linear Algebra I</li><li>Modern Algebra I, II</li><li>Combinatorics</li></ul></div>
-  <div class="cw-row"><div class="cw-field">Optimization &amp; Computation</div><ul class="cw-courses"><li>Mathematical Programming</li><li>Computational Mathematics</li></ul></div>
+  <div class="cw-row">
+    <div class="cw-field">Analysis</div>
+    <ul class="cw-courses">
+      <li>Real Analysis</li>
+      <li>Advanced Calculus I, II</li>
+      <li>Complex Analysis I</li>
+      <li>Differential Equations</li>
+    </ul>
+  </div>
+  <div class="cw-row">
+    <div class="cw-field">Probability &amp; Statistics</div>
+    <ul class="cw-courses">
+      <li>Probability Theory</li>
+      <li>Mathematical Statistics I</li>
+    </ul>
+  </div>
+  <div class="cw-row">
+    <div class="cw-field">Algebra &amp; Combinatorics</div>
+    <ul class="cw-courses">
+      <li>Linear Algebra I</li>
+      <li>Modern Algebra I, II</li>
+      <li>Combinatorics</li>
+    </ul>
+  </div>
+  <div class="cw-row">
+    <div class="cw-field">Optimization &amp; Computation</div>
+    <ul class="cw-courses">
+      <li>Mathematical Programming</li>
+      <li>Computational Mathematics</li>
+    </ul>
+  </div>
   <div class="cw-major">Semiconductor</div>
-  <div class="cw-row"><div class="cw-field">Equipment &amp; Energy</div><ul class="cw-courses"><li>Plasma Equipment</li><li>Introduction to Electrical Energy</li></ul></div>
+  <div class="cw-row">
+    <div class="cw-field">Equipment &amp; Energy</div>
+    <ul class="cw-courses">
+      <li>Plasma Equipment</li>
+      <li>Introduction to Electrical Energy</li>
+    </ul>
+  </div>
 </div>
 
 Research Experience
