@@ -88,7 +88,7 @@ Relevant Coursework
     <ul class="cw-courses">
       <li>Modern Algebra I, II (현대대수)<span class="cw-desc">Abstract Algebra, Algebraic structure(Ring, Field, Group etc), Galois Theory</span></li>
       <li>Linear Algebra I (선형대수)</li>
-      <li>Combinatorics (조합수학)
+      <li>Combinatorics (조합수학)</li>
     </ul>
   </div>
   <div class="cw-row">
