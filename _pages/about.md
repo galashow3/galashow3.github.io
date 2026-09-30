@@ -70,7 +70,7 @@ Relevant Coursework
   <div class="cw-row">
     <div class="cw-field">Analysis</div>
     <ul class="cw-courses">
-      <li>Real Analysis (실변수 함수론)<span class="cw-desc">Measure Theory,Lebesgue Integration</span></li>
+      <li>Real Analysis (실변수 함수론)<span class="cw-desc">Measure Theory, Lebesgue Integration</span></li>
       <li>Advanced Calculus I, II (해석학)</li>
       <li>Complex Analysis I (복소수 해석학)</li>
       <li>Differential Equations (미분방정식)</li>
@@ -79,7 +79,7 @@ Relevant Coursework
   <div class="cw-row">
     <div class="cw-field">Probability &amp; Statistics</div>
     <ul class="cw-courses">
-      <li>Probability Theory (확률론)</li>
+      <li>Probability Theory (확률론)<span class="cw-desc">Bore-Sigma Algebra, Stochastic Process, Stochastic Differential EQN(SDE)</span></li>
       <li>Mathematical Statistics I (수리통계학)</li>
     </ul>
   </div>
