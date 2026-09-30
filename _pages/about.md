@@ -70,7 +70,7 @@ Relevant Coursework
   <div class="cw-row">
     <div class="cw-field">Analysis</div>
     <ul class="cw-courses">
-      <li>Real Analysis (실변수 함수론)</li>
+      <li>Real Analysis (실변수 함수론)<span class="cw-desc">Measure Theory,Lebesgue Integration</span></li>
       <li>Advanced Calculus I, II (해석학)</li>
       <li>Complex Analysis I (복소수 해석학)</li>
       <li>Differential Equations (미분방정식)</li>
