@@ -69,32 +69,32 @@ Relevant Coursework
   <div class="cw-row">
     <div class="cw-field">Analysis</div>
     <ul class="cw-courses">
-      <li>Real Analysis</li>
-      <li>Advanced Calculus I, II</li>
-      <li>Complex Analysis I</li>
-      <li>Differential Equations</li>
+      <li>Real Analysis (실변수 함수론)</li>
+      <li>Advanced Calculus I, II (해석학)</li>
+      <li>Complex Analysis I (복소수 해석학)</li>
+      <li>Differential Equations (미분방정식)</li>
     </ul>
   </div>
   <div class="cw-row">
     <div class="cw-field">Probability &amp; Statistics</div>
     <ul class="cw-courses">
-      <li>Probability Theory</li>
-      <li>Mathematical Statistics I</li>
+      <li>Probability Theory (확률론)</li>
+      <li>Mathematical Statistics I (수리통계학)</li>
     </ul>
   </div>
   <div class="cw-row">
     <div class="cw-field">Algebra &amp; Combinatorics</div>
     <ul class="cw-courses">
-      <li>Linear Algebra I</li>
-      <li>Modern Algebra I, II</li>
-      <li>Combinatorics</li>
+      <li>Modern Algebra I, II (현대대수)</li>
+      <li>Linear Algebra I (선형대수)</li>
+      <li>Combinatorics (조합수학)</li>
     </ul>
   </div>
   <div class="cw-row">
     <div class="cw-field">Optimization &amp; Computation</div>
     <ul class="cw-courses">
-      <li>Mathematical Programming</li>
-      <li>Computational Mathematics</li>
+      <li>Mathematical Programming (수리계획법)</li>
+      <li>Computational Mathematics (전산수학)</li>
     </ul>
   </div>
   <div class="cw-major">Semiconductor</div>
