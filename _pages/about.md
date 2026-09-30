@@ -94,7 +94,7 @@ Relevant Coursework
   <div class="cw-row">
     <div class="cw-field">Optimization &amp; Computation</div>
     <ul class="cw-courses">
-      <li>Computational Mathematics (전산수학)</li><span class="cw-desc">(Computational Algebra, Fast Fourier Transform, Convolution Neural Network, AI, Cryptography</span></li>
+      <li>Computational Mathematics (전산수학)</li><span class="cw-desc">Computational Algebra, Fast Fourier Transform, Convolution Neural Network, AI, Cryptography</span></li>
       <li>Mathematical Programming (수리계획법)</li>
     </ul>
   </div>
