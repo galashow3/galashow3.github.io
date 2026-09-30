@@ -37,30 +37,30 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-/* Relevant coursework on the About page: field label, then an indented bullet list */
+/* Relevant coursework on the About page.
+   Hierarchy: major (largest, bold, underlined) > field (medium, semibold) > courses (smallest, indented bullets) */
 .coursework { margin: 0.4em 0 1.8em; }
 .coursework .cw-major {
+  font-size: 1.1em;
   font-weight: 700;
   margin: 1.4em 0 0.6em;
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--global-border-color);
 }
 .coursework .cw-major:first-child { margin-top: 0.4em; }
-.coursework .cw-row { margin: 0 0 0.9em 0; }
+.coursework .cw-row { margin: 0 0 0.8em 0; }
 .coursework .cw-field {
-  font-size: 0.72em;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  opacity: 0.65;
-  margin-bottom: 0.25em;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 0.15em;
 }
 .coursework ul.cw-courses {
+  font-size: 0.88em;
   margin: 0;
-  padding-left: 2.2em;   /* same bullet position as the Education list */
+  padding-left: 2.5em;   /* bullets line up with the Education list */
   list-style: disc;
 }
 .coursework ul.cw-courses li {
   line-height: 1.5;
-  margin: 0.15em 0;
+  margin: 0.1em 0;
 }
