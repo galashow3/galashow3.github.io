@@ -79,23 +79,23 @@ Relevant Coursework
   <div class="cw-row">
     <div class="cw-field">Probability &amp; Statistics</div>
     <ul class="cw-courses">
-      <li>Probability Theory (확률론)<span class="cw-desc">Bore-Sigma Algebra, Stochastic Process, Stochastic Differential EQN(SDE)</span></li>
+      <li>Probability Theory (확률론)<span class="cw-desc">Borel-Sigma Algebra, Stochastic Process, Stochastic Differential EQN(SDE)</span></li>
       <li>Mathematical Statistics I (수리통계학)</li>
     </ul>
   </div>
   <div class="cw-row">
     <div class="cw-field">Algebra &amp; Combinatorics</div>
     <ul class="cw-courses">
-      <li>Modern Algebra I, II (현대대수)</li>
+      <li>Modern Algebra I, II (현대대수)<span class="cw-desc">Abstract Algebra, Algebraic structure(Ring, Field, Group etc), Galois Theory</span></li>
       <li>Linear Algebra I (선형대수)</li>
-      <li>Combinatorics (조합수학)</li>
+      <li>Combinatorics (조합수학)
     </ul>
   </div>
   <div class="cw-row">
     <div class="cw-field">Optimization &amp; Computation</div>
     <ul class="cw-courses">
+      <li>Computational Mathematics (전산수학)</li><span class="cw-desc">(Computational Algebra, Fast Fourier Transform, Convolution Neural Network, AI, Cryptography</span></li>
       <li>Mathematical Programming (수리계획법)</li>
-      <li>Computational Mathematics (전산수학)</li>
     </ul>
   </div>
   <div class="cw-major">Semiconductor</div>
