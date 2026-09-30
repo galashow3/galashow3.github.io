@@ -21,8 +21,8 @@ Education
 ======
 **Hanyang University**, Seoul, Korea &nbsp;·&nbsp; Mar 2020 – Feb 2027 (expected)
 
-- B.S. in Industrial Engineering (primary major)
-- B.S. in Mathematics (double major)
+- B.S. in Industrial Engineering (Primary major, 주전공)
+- B.S. in Mathematics (Double major, 다중전공)
 - Micro-Major in Semiconductor
 
 Relevant Coursework
